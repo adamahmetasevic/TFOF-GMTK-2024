@@ -1,0 +1,28 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+UserSettings/
+ProjectSettings/ProjectVersion.txt
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.DS_Store
+*.idea/
+
+# Visual Studio (optional, if you use it)
+.vs/
+
+# Rider (optional, if you use it)
+.idea/.idea.YourProjectName/
+.idea/*
+!.idea/.idea.YourProjectName/.idea/indexLayout.xml
+!.idea/.idea.YourProjectName/.idea/vcs.xml
+!.idea/.idea.YourProjectName/.idea/riderModule.xml
